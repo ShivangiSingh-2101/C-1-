@@ -23,7 +23,7 @@ int main() {
 return 0;
 }
 
-/* Output:
+/* Output :
 Hello World
 Enter first number : 21
 Enter second number : 18
