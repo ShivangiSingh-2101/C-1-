@@ -28,18 +28,17 @@ It also helps beginners understand the flow of control, syntax, and the logic be
 
 ALGORITHM:
 
-Step-by-step:
 
-Start the program
-Display "Hello World"
-Declare variables: n, m for inputs; sum, sub, mul, div for results
-Display a message: “Enter first number”
-Read input and store in n
-Display a message: “Enter second number”
-Read input and store in m
-Perform and store results:
-sum = n + m
-sub = n - m
-mul = n * m
-div = n / m
-Display all the results using cout
+- Start the program
+- Display "Hello World"
+- Declare variables: n, m for inputs; sum, sub, mul, div for results
+- Display a message: “Enter first number”
+- Read input and store in n
+- Display a message: “Enter second number”
+- Read input and store in m
+- Perform and store results:
+- sum = n + m
+- sub = n - m
+- mul = n * m
+- div = n / m
+- Display all the results using cout
